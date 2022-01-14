@@ -1,1 +1,0 @@
-# auto-rejoin-world-mbot
